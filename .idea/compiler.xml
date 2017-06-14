@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="netty" />
+        <module name="jet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="netty" target="1.5" />
+      <module name="jet" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
